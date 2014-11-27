@@ -6,6 +6,14 @@ pom.xml.next
 release.properties
 
 # =========================
+# Eclipse Project Config
+# =========================
+.project
+.classpath
+.settings/
+
+
+# =========================
 # Operating System Files
 # =========================
 
